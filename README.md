@@ -1,2 +1,4 @@
 # Conky-Reverie-Theme
 Reverie is a glassmorphism conky widget recreated and substantially modified from a theme originally made by unknown auther on opendesktop.org , which has since been deleted. The original used the icons to display weather status and rectangular backgrounds; this version replaces those with custom glass assets and adds KDE Plasma 6 / Wayland support. Licensed under CC BY-NC-SA 3.0 in accordance with the original.
+
+![Aero Process Panel](https://raw.githubusercontent.com/Ashfaqul-Awal-Himel/Conky-Reverie-Theme/refs/heads/main/reverie/reverie.png)
